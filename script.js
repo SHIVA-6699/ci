@@ -1,0 +1,1 @@
+console.log("Workflow with continues intergeration with github actions")
